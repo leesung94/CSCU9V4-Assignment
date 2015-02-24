@@ -1,0 +1,503 @@
+Music Artist/Band
+3 Doors Down
+30 Seconds to Mars
+50 Cent
+98 Degrees
+A Perfect Circle
+A Tribe Called Quest
+A. R. Rahman
+Aaliyah
+Aaron Carter
+Ace of Base
+Adam Lambert
+Adina Howard
+Aerosmith
+Air Supply
+Alabama
+Aladdin
+Alan Jackson
+Alanis Morissette
+Alejandro Fernandez
+Alejandro Sanz
+Alesha Dixon
+Alexander Rybak
+Alexandra Burke
+Alice Cooper
+Alice In Chains
+Alicia Keys
+Alizee
+All Saints
+All That Remains
+All Time Low
+Alphaville
+Aly and AJ
+Amerie
+Amy Grant
+Amy Lee
+Amy Macdonald
+Amy Winehouse
+Anastacia
+Anberlin
+Andrea Bocelli
+Animal Collective
+Anita Baker
+Anna Nalick
+Annie Lennox
+Anthrax
+Arcade Fire
+Archive
+Arctic Monkeys
+Aretha Franklin
+Armin van Buuren
+As I Lay Dying
+Ashanti
+Asher Roth
+Ashlee Simpson
+Atomic Kitten
+Atreyu
+Audioslave
+Avalon
+Avenged Sevenfold
+Aventura
+Avril Lavigne
+Axl Rose
+B.B. King
+Babyface
+Backstreet Boys
+Backstreet Boys
+Bad Company
+Bad Religion
+Barbra Streisand
+Barenaked Ladies
+Barry Manilow
+Barry White
+Basshunter
+Bat for Lashes
+Bauhaus
+Beach Boys
+Beastie Boys
+Bee Gees
+Belinda
+Belinda Carlisle
+Ben Folds
+Ben Harper
+Beyonce Knowles
+Big & Rich
+Bill Kaulitz
+Billie Holiday
+Billy Idol
+Billy Joel
+Billy Ray Cyrus
+Billy Talent
+Birdman
+Black Eyed Peas
+Black Sabbath
+Blake Lewis
+Blind Guardian
+Blind Melon
+Blink-182
+Bloc Party
+Blondie
+Bloodhound Gang
+Blue October
+Blue Oyster Cult
+Blues Traveler
+Bo Bice
+Bob Dylan
+Bob Marley
+Bob Seger
+Bob Sinclar
+Bobby V
+Bobby Valentino
+Bon Jovi
+Bone Thugs-N-Harmony
+Bonnie Tyler
+Boston
+Bow Wow
+Boy George
+Boyce Avenue
+Boys Like Girls
+Boyz II Men
+Boyzone
+Brad Paisley
+Brandy
+Breaking Benjamin
+Bret Michaels
+Brian McKnight
+Bright Eyes
+Bring Me The Horizon
+Britney Spears
+Brooke Hogan
+Brooke Valentine
+Brooks & Dunn
+Bruce Springsteen
+Bryan Adams
+Buckethead
+Bullet For My Valentine
+Busta Rhymes
+Bwitched
+Cafe Tacuba
+Calle 13
+Calvin Harris
+Cam'ron
+Camila
+Carlos Santana
+Carpenters
+Carrie Underwood
+Cascada
+Cassidy
+Cassie
+Casting Crowns
+Cat Stevens
+Celebration
+Celine Dion
+Chamillionaire
+Charice
+Charlie Wilson
+Charlotte Church
+Chayanne
+Chely Wright
+Chemical Brothers
+Cheryl Cole
+Chevelle
+Chicago
+Chingy
+Chipmunk
+Chris Brown
+Chris Cornell
+Chris Daughtry
+Chris Isaak
+Christina Aguilera
+Christophe Mae
+Chuck Berry
+Clay Aiken
+Cliff Richard
+Coal Chamber
+Cobra Starship
+Coheed and Cambria
+Colbie Caillat
+Coldplay
+Conway Twitty
+Cori Nadine
+Corona
+Counting Crows
+Courtney Love
+Cradle of Filth
+Craig David
+Crazy Frog
+Creedence Clearwater Revival
+Cristian Castro
+Crossfade
+Crystal Castles
+Cyndi Lauper
+Cypress Hill
+Daddy Yankee
+Daft Punk
+Damian Marley
+Damien Rice
+Dane Cook
+Daniel Merriweather
+Daniel Powter
+Danity Kane
+Dashboard Confessional
+DAUGHTRY
+Dave Matthews Band
+David Archuleta
+David Banner
+David Bisbal
+David Bowie
+David Cook
+David Garrett
+David Guetta
+DC Talk
+Dead or Alive
+Deadmau5
+Death Cab for Cutie
+Death Metal
+Death Row Records
+Deep Purple
+Def Leppard
+Deftones
+Deicide
+Depeche Mode
+Destiny's Child
+Diana Krall
+Diana Ross
+Die Toten Hosen
+Dimmu Borgir
+Dire Straits
+Disturbed
+Dixie Chicks
+Dizzee Rascal
+DJ Khaled
+DJ Tiesto
+Dokken
+Dolly Parton
+Don Omar
+Donna Summer
+Doobie Brothers
+Dr. Dre
+DragonForce
+Drake Bell
+Dream Theater
+Dropkick Murphys
+Dulce Maria
+Duran Duran
+Eagles
+Eazy-E
+Eddie Vedder
+Electric
+Electric Light Orchestra
+Electronica
+Elephant Man
+Ella Fitzgerald
+Elton John
+Elvis Costello
+Elvis Presley
+Eminem
+Emma Bunton
+Enigma
+Ennio Morricone
+Enrique Iglesias
+Erasure
+Eric Clapton
+Erykah Badu
+Escape
+Escape the Fate
+Esmee Denters
+Evanescence
+Everclear
+Everlast
+Extreme
+F.L.Y.
+Fabolous
+Faith Evans
+Faith Hill
+Faith No More
+Faithless
+Fall Out Boy
+Fat Joe
+Fatboy Slim
+Fear Factory
+Fiona Apple
+Five Finger Death Punch
+Fleet Foxes
+Fleetwood Mac
+Flight of the Conchords
+Flo Rida
+Flogging Molly
+Florence and the Machine
+Flyleaf
+Foo Fighters
+Foreigner
+Fort Minor
+Foxy Brown
+Frank Sinatra
+Frank Zappa
+Frankie J
+Franz Ferdinand
+Freddie Mercury
+G-Unit
+Garbage
+Garth Brooks
+Gary Moore
+Gavin DeGraw
+Gene Simmons
+Genesis
+George Harrison
+George Michael
+George Strait
+Ginuwine
+Girlicious
+Girls Aloud
+Gloria Estefan
+Godsmack
+Goldfinger
+Goo Goo Dolls
+Good Charlotte
+Gordon Lightfoot
+Gorilla Zoe
+Gorillaz
+Grateful Dead
+Green Day
+Gretchen Wilson
+Grizzly Bear
+Gucci Mane
+Guns N' Roses
+Gwen Stefani
+Gym Class Heroes
+H.I.M.
+Hall & Oates
+Hanson
+Pantera
+Paolo Nutini
+Papa Roach
+Paramore
+Passion Pit
+Patsy Cline
+Paul McCartney
+Paul Potts
+Paul Simon
+Paul Wall
+Paula Abdul
+Paulina Rubio
+Pearl Jam
+Pennywise
+Pet Shop Boys
+Pete Doherty
+Peter Andre
+Peter Gabriel
+Phil Collins
+Pink Floyd
+Pitbull
+Pixie Lott
+Pixies
+Placebo
+Plan B
+Pleasure P
+Polar Bear
+Porcupine Tree
+Portishead
+Pretty Ricky
+Primus
+Prince
+Prodigy
+Public Enemy
+Queens of the Stone Age
+Quicksilver
+R. Kelly
+R.E.M.
+Rachel Stevens
+Radiohead
+Rage Against the Machine
+Rammstein
+Ramones
+Rancid
+Rascal Flatts
+Ray Charles
+Reba McEntire
+Rebecca St. James
+Red Hot Chili Peppers
+Regina Spektor
+Relient K
+Reo Speedwagon
+Republic
+Ricardo Arjona
+Richard Marx
+Rick Astley
+Rick Ross
+Ricky Martin
+Rihanna
+Rise Against
+Rob Thomas
+Rob Zombie
+Robbie Williams
+Robert Palmer
+Robin Thicke
+Rod Stewart
+Rodney Carrington
+Ronan Keating
+Roxette
+Roy Orbison
+Run DMC
+Ryan Cabrera
+Ryan Leslie
+S Club 7
+Salt-N-Pepa
+Samantha Fox
+Sammy Hagar
+Santana
+Saosin
+Sara Bareilles
+Sara Evans
+Sarah Brightman
+Sarah Connor
+Sarah McLachlan
+Savage Garden
+Sawyer Brown
+Scarface
+Scorpions
+Sean Kingston
+Sean Paul
+Secondhand Serenade
+Seether
+Selena
+Sepultura
+Sex Pistols
+Shaggy
+Shaheen Jafargholi
+Shakira
+Shania Twain
+Shanice
+Shayne Ward
+SHeDAISY
+Sheryl Crow
+Shinedown
+Sigur Ros
+Silverchair
+Silverstein
+Simon and Garfunkel
+Simple Minds
+Simple Plan
+Simply Red
+Sin Bandera
+Sinead O'Connor
+Sister Hazel
+Skid Row
+Skillet
+Skinny Puppy
+
+Slayer
+Slim Thug
+Slipknot
+Smashing Pumpkins
+Snoop Dogg
+Snow Patrol
+Something Corporate
+Sonic Youth
+Sonohra
+Soulja Boy
+Soundgarden
+Spandau Ballet
+Sparta
+Spice Girls
+Stacie Orrico
+Stacy Ferguson
+Staind
+Static X
+Steely Dan
+Stephen Gately
+Steve Vai
+Steven Curtis Chapman
+Stevie Nicks
+Stevie Ray Vaughan
+Stevie Wonder
+
+Stone Sour
+Stone Temple Pilots
+Stryper
+Sublime
+Sugababes
+Sugar Ray
+Sugarland
+Sum 41
+Supertramp
+Survivor
+Susan Boyle
+Switchfoot
+System of a Down
+T-Pain
+t.A.T.u
+Taio Cruz
+Take That
+Taking Back Sunday
+Talking Heads
+Tatyana Ali
+Taylor Swift
+Teairra Mari
+Tech N9ne
+Tegan and Sara
+Tego Calderon
+Tenacious D
+Terri Clark
+The All-American Rejects
